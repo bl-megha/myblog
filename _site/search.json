@@ -1,0 +1,23 @@
+[
+  
+    {
+      "title"    : "Test Post",
+      "article"  : "<div class='article col col-12 animate'> <div class='article__inner'> <div class='article__content'> <h2 class='article__title'> <a href='/testpost'>Test Post</a> </h2> <p class='article__excerpt'>A live stream of the Satija lab&#39;s Single Cell Genomics Day...with food!</p><div class='article__bottom'> <div class='article-tags__box'><a href='/tag/single cell' class='article__tag'>single cell</a><a href='/tag/R' class='article__tag'>R</a></div></div></div></div></div>",
+      "category" : "",
+      "tags"     : "single cell and R",
+      "url"      : "/testpost",
+      "date"     : "2024-08-04 17:31:35 +0530",
+      "content"  : "this is test post"
+    } ,
+  
+    {
+      "title"    : "ggplot2",
+      "article"  : "<div class='article col col-12 animate'> <div class='article__inner'> <div class='article__content'> <h2 class='article__title'> <a href='/ggplot2'>ggplot2</a> </h2> <p class='article__excerpt'>Making graphs with ggplot2 and the R programming language.</p><div class='article__bottom'> <div class='article-tags__box'><a href='/tag/R/Bioconductor' class='article__tag'>R/Bioconductor</a><a href='/tag/dataviz' class='article__tag'>dataviz</a></div></div></div></div></div>",
+      "category" : "",
+      "tags"     : "R/Bioconductor and dataviz",
+      "url"      : "/ggplot2",
+      "date"     : "2024-04-23 17:31:35 +0530",
+      "content"  : "RegistrationRegister using this form!.  The workshop is free to UPenn graduate students, postdocs, faculty, and staff, but registration is required and seating is limited.The workshop will take place in the Holman Reading Room in the Biomedical library, and is free to UPenn graduate students, postdocs, faculty, and staff.OverviewThe first part of the day will be devoted to learning about tidyverse and other methods for preparing data for plotting, as well as ggplot basics. After lunch, we will dive into more sophisticated options for plotting data, including interactive figures. Prerequisites for this course are basic familiarity with R and working installations of R, Rstudio and the tidyverse.About your instructorThis workshop will be taught by Matei Ionita, PhD, Senior Data Analyst at I3HWorkshop resourcesTwo scripts were used during the workshop: one covering basic aspects of ggplot2, and another for more advanced topics.  These scripts make use of these two data files: flow_data.csv and tabular_data.csv.  We also discussed color palettes, so you might find this cheatsheet useful."
+    } 
+  
+]

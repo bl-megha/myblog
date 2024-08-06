@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Shesecures</title>
+        <description>I write blog about the cyber security related concepts</description>
+        <link>https://shesecures.in/</link>
+        <atom:link href="https://shesecures.in/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 06 Aug 2024 20:40:41 +0530</pubDate>
+        <lastBuildDate>Tue, 06 Aug 2024 20:40:41 +0530</lastBuildDate>
+        <generator>Jekyll v4.3.3</generator>
+        
+            <item>
+                <title>Test Post</title>
+                <description>&lt;p&gt;this is test post&lt;/p&gt;
+</description>
+                <pubDate>Sun, 04 Aug 2024 17:31:35 +0530</pubDate>
+                <link>https://shesecures.in/testpost</link>
+                <guid isPermaLink="true">https://shesecures.in/testpost</guid>
+                
+                <category>single cell</category>
+                
+                <category>R</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>ggplot2</title>
+                <description>&lt;h2 id=&quot;registration&quot;&gt;Registration&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://forms.gle/1vdXpJsBnshLfnVn6&quot;&gt;Register using this form&lt;/a&gt;!&lt;/strong&gt;.  The workshop is free to UPenn graduate students, postdocs, faculty, and staff, but registration is required and seating is limited.&lt;/p&gt;
+
+&lt;p&gt;The workshop will take place in the &lt;a href=&quot;https://www.library.upenn.edu/holman&quot;&gt;Holman Reading Room&lt;/a&gt; in the Biomedical library, and is free to UPenn graduate students, postdocs, faculty, and staff.&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;The first part of the day will be devoted to learning about tidyverse and other methods for preparing data for plotting, as well as ggplot basics. After lunch, we will dive into more sophisticated options for plotting data, including interactive figures. Prerequisites for this course are basic familiarity with R and working installations of R, Rstudio and the tidyverse.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-your-instructor&quot;&gt;About your instructor&lt;/h2&gt;
+
+&lt;p&gt;This workshop will be taught by Matei Ionita, PhD, Senior Data Analyst at I3H&lt;/p&gt;
+
+&lt;h2 id=&quot;workshop-resources&quot;&gt;Workshop resources&lt;/h2&gt;
+
+&lt;p&gt;Two scripts were used during the workshop: one covering &lt;a href=&quot;https://gemini-series.netlify.app/code/basics.R&quot;&gt;basic aspects of ggplot2&lt;/a&gt;, and another for more &lt;a href=&quot;https://gemini-series.netlify.app/code/advanced.R&quot;&gt;advanced topics&lt;/a&gt;.  These scripts make use of these two data files: &lt;a href=&quot;https://gemini-series.netlify.app/code/flow_data.csv&quot;&gt;flow_data.csv&lt;/a&gt; and &lt;a href=&quot;https://gemini-series.netlify.app/code/tabular_data.csv&quot;&gt;tabular_data.csv&lt;/a&gt;.  We also discussed color palettes, so you might find &lt;a href=&quot;https://gemini-series.netlify.app/code/colorPaletteCheatsheet.pdf&quot;&gt;this cheatsheet&lt;/a&gt; useful.&lt;/p&gt;
+
+</description>
+                <pubDate>Tue, 23 Apr 2024 17:31:35 +0530</pubDate>
+                <link>https://shesecures.in/ggplot2</link>
+                <guid isPermaLink="true">https://shesecures.in/ggplot2</guid>
+                
+                <category>R/Bioconductor</category>
+                
+                <category>dataviz</category>
+                
+                
+            </item>
+        
+    </channel>
+</rss>
