@@ -3,8 +3,8 @@
 title: Shesecures
 logo: # You can add own logo. For example '/images/gemini.png'.
 description: I write blog about the cyber security related concepts
-baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://shesecures.in" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # The subpath of your site, e.g. /blog
+url: https://shesecures.in # The base hostname & protocol for your site, e.g. http://example.com
 future: true
 
 #-------------------------------
@@ -13,8 +13,8 @@ author:
   name: Megha
   title: Shesecures
   description: I write blog about the cyber security related concepts
-  image: '/images/gemini.png'
-  avatar: '/images/gemini-avatar.png'
+  image: '/images/megha-photo.jpg'
+  avatar: '/images/megha-photo.jpg'
 
 social:
 - {icon: "ion-logo-linkedin", label: linkedin, link: "https://www.linkedin.com/in/megha-bl/"}
