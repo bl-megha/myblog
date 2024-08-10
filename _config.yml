@@ -3,8 +3,8 @@
 title: Shesecures
 logo: # You can add own logo. For example '/images/gemini.png'.
 description: I write blog about the cyber security related concepts
-baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # The subpath of your site, e.g. /blog
+url: "https://shesecures.in" # The base hostname & protocol for your site, e.g. http://example.com
 future: true
 
 #-------------------------------
@@ -56,7 +56,7 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 #-------------------------------
 # Build Settings
 markdown: kramdown
-permalink: /:title
+permalink: "/:title/"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
